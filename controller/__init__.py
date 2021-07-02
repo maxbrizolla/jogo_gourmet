@@ -1,0 +1,1 @@
+from .pergunta_controller import valida_resposta, valida_reposta_str, PerguntasController
