@@ -2,7 +2,6 @@ import json
 import sys
 from time import sleep
 
-import pylab as p
 import requests
 
 from config.config import USE_AWS
